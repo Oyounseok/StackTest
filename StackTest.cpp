@@ -1,6 +1,6 @@
 /*201825017 오윤석 180518 pm 2:28*
 // StackTest.cpp : 콘솔 응용 프로그램에 대한 진입점을 정의합니다.
-//고정운 멍청이
+//킹윤석 오너님
 
 #include "stdafx.h"
 #include <stdio.h>
